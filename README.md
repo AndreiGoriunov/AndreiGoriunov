@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreiGoriunov
-- 👀 I’m interested in DEvelopment, Automation and Design
+- 👀 I’m interested in Development, Automation and Design
 - 🌱 I’m currently learning Advanced Java, Javascript and Python
 
 <!---
