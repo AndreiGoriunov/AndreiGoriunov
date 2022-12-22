@@ -1,4 +1,6 @@
 # @AndreiGoriunov
+<img src="https://github.com/AndreiGoriunov/AndreiGoriunov/blob/main/resources/images/eye_trans.gif" width="250" alt="Eye">
+
 ### I love automating manual tasks
-![Eye Gif]("./resources/eye_trans.gif")
-<img align='center' src='./resources/eye_trans.gif' width='300"'>
+
+
