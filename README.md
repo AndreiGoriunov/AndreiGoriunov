@@ -4,4 +4,4 @@
 - ❤ Loves automating manual tasks.
 - ⚔ MMORPG enjoyer.
 
-<img src="https://github.com/AndreiGoriunov/AndreiGoriunov/blob/main/resources/images/eye_trans.gif" width="250" alt="Eye">
+<img src="https://github.com/AndreiGoriunov/AndreiGoriunov/blob/main/resources/images/eye_trans.gif" width="200" alt="Eye">
