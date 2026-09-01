@@ -1,6 +1,6 @@
 # @AndreiGoriunov
 
-- 💻Software Development Engineer in Test.
+- 💻 Software Development Engineer in Test.
 - ❤ Enjoys:
   - ⚙️ Automation
   - 💡 Technology
