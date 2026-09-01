@@ -1,7 +1,9 @@
 # @AndreiGoriunov
-- 🎓 Graduate from University of Central Florida.
-- ⚙ Automation Engineer.
-- ❤ Loves automating manual tasks.
-- ⚔ MMORPG enjoyer.
+
+- ⚙ Software Development Engineer in Test.
+- ❤ Enjoys:
+  - Automation
+  - Technology
+  - FOSS
 
 ### [AndreiGoriunov.github.io](https://AndreiGoriunov.github.io)
