@@ -1,9 +1,9 @@
 # @AndreiGoriunov
 
-- ⚙ Software Development Engineer in Test.
+- 💻Software Development Engineer in Test.
 - ❤ Enjoys:
-  - Automation
-  - Technology
-  - FOSS
+  - ⚙️ Automation
+  - 💡 Technology
+  - 🔓 FOSS
 
 ### [AndreiGoriunov.github.io](https://AndreiGoriunov.github.io)
